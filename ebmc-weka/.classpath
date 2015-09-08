@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="src/main/java"/>
 	<classpathentry kind="src" path="src/test/java"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="/Users/arturo/Documents/workspace/jars/weka-3-7-10/weka.jar"/>
-	<classpathentry kind="lib" path="/Users/arturo/Documents/workspace/jars/junit-4.10.jar"/>
+	<classpathentry kind="lib" path="/Users/arturo/git/ebmc-weka/ebmc-weka/lib/weka.jar"/>
+	<classpathentry kind="lib" path="/Users/arturo/git/ebmc-weka/ebmc-weka/lib/junit-4.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

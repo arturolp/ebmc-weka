@@ -14,7 +14,6 @@ public static void main(String args[]) throws Exception{
 		
 		try {
 			ArffLoader arff = new ArffLoader();
-			//arff.setFile(new File("/Users/arturo/Desktop/Pitt-LungSpore/lspore-ad-sq.arff"));
 			arff.setFile(new File("australian-train.arff"));
 			Instances instances = arff.getDataSet();
 			instances.setClassIndex(instances.numAttributes() - 1);
