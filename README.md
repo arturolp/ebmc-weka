@@ -7,11 +7,11 @@ EBMC builds a tree-augmented naïve Bayes model (TAN). EBMC greedily searches ov
 ## Citation
 For citation and more information refer to:
 
-G. F. Cooper, P. Hennings-Yeomans, S. Visweswaran, & M. Barmada, (2010). An efficient Bayesian method for predicting clinical outcomes from genome-wide data. AMIA Annual Symposium Proceedings. 127-131. http://www.ncbi.nlm.nih.gov/pubmed/21346954
+>G. F. Cooper, P. Hennings-Yeomans, S. Visweswaran, & M. Barmada, (2010). An efficient Bayesian method for predicting clinical outcomes from genome-wide data. AMIA Annual Symposium Proceedings. 127-131. http://www.ncbi.nlm.nih.gov/pubmed/21346954
 
 For pseudocode of the algorithm, refer to the supplementary material from:
 
-Jiang, X., Cai, B., Xue, D., Lu, X., Cooper, G. F., & Neapolitan, R. E. (2014). A comparative analysis of methods for predicting clinical outcomes using high-dimensional genomic datasets. Journal of the American Medical Informatics Association, 21(e2), e312–e319. http://doi.org/10.1136/amiajnl-2013-002358
+>Jiang, X., Cai, B., Xue, D., Lu, X., Cooper, G. F., & Neapolitan, R. E. (2014). A comparative analysis of methods for predicting clinical outcomes using high-dimensional genomic datasets. Journal of the American Medical Informatics Association, 21(e2), e312–e319. http://doi.org/10.1136/amiajnl-2013-002358
 
 ## Current development status
 This package is an un-official weka package that can be installed using Weka's Package Manager
