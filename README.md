@@ -1,8 +1,10 @@
 # EBMC package for WEKA
-A java WEKA extension of the Efficient Bayesian Multivariate Classifier (EBMC) algorithm
+A WEKA extension for the Efficient Bayesian Multivariate Classifier (EBMC) algorithm
+
 
 ## Description
-EBMC builds a tree-augmented naïve Bayes model (TAN). EBMC greedily searches over the subspace of Bayesian networks that best predict the target node. To make the search efficient, it initially starts with an empty model and it identifies the set of nodes that are independent parents of the target and predicts it well. Then, EBMC transforms the temporary network into its statistically equivalent network where the parent nodes become children of the target with arcs between them. It then iterates the search for a new set of parents given the current structure. Finally, it greedily eliminates arcs between the children nodes.
+EBMC builds a tree-augmented naïve Bayes model (TAN). EBMC searches over the subspace of Bayesian networks that best predict the target node. To make the search efficient, it starts with an empty network and greedily identifies the set of independent parents of the target that predict it well. Then, EBMC transforms the current network into a statistically equivalent network where the parent nodes become children of the target with arcs between them. It then searches iteratively for a new set of parents given the current structure. Finally, it greedily eliminates arcs between the children nodes.
+
 
 ## Citation
 For citation and more information refer to:
