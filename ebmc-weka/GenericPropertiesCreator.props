@@ -1,0 +1,8 @@
+# Customizes the list of options given by the GenericObjectEditor
+# for various super classes.
+#
+# Version: $Revision: 50233 $
+
+# Lists the Classifiers-Packages I want to choose from
+weka.classifiers.Classifier=\
+ weka.classifiers.bayes.net.search.local
