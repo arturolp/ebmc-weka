@@ -31,10 +31,10 @@ Description=This algorithm performs greedy search in a subspace of Bayesian Netw
  Cooper, G. F., Hennings-Yeomans, P., Visweswaran, S., & Barmada, M. (2010). An efficient bayesian method for predicting clinical outcomes from genome-wide data. AMIA Annual Symposium Proceedings. 127-131.
 
 # Package URL for obtaining the package archive (required)
-PackageURL=http://www.dbmi.pitt.edu/content/cooper-lab
+PackageURL=https://github.com/arturolp/ebmc-weka
 
 # URL for further information
-URL=http://www.dbmi.pitt.edu/content/cooper-lab
+URL=https://github.com/arturolp/ebmc-weka
 
 # Related to other packages?
 Related=NaiveBayes
