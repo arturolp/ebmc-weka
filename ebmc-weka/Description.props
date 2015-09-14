@@ -9,7 +9,7 @@ PackageName=EBMC
 Version=1.0.0
 
 #Date
-Date=2014-02-01
+Date=2015-09-14
 
 # Title (required)
 Title=Efficient Bayesian Multivariate Classifier
@@ -31,7 +31,7 @@ Description=This algorithm performs greedy search in a subspace of Bayesian Netw
  Cooper, G. F., Hennings-Yeomans, P., Visweswaran, S., & Barmada, M. (2010). An efficient bayesian method for predicting clinical outcomes from genome-wide data. AMIA Annual Symposium Proceedings. 127-131.
 
 # Package URL for obtaining the package archive (required)
-PackageURL=https://github.com/arturolp/ebmc-weka
+PackageURL=https://github.com/arturolp/ebmc-weka/releases/download/v1.0/ebmc.zip
 
 # URL for further information
 URL=https://github.com/arturolp/ebmc-weka
