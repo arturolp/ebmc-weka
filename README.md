@@ -16,4 +16,4 @@ For pseudocode of the algorithm, refer to the supplementary material from:
 >Jiang, X., Cai, B., Xue, D., Lu, X., Cooper, G. F., & Neapolitan, R. E. (2014). A comparative analysis of methods for predicting clinical outcomes using high-dimensional genomic datasets. Journal of the American Medical Informatics Association, 21(e2), e312–e319. http://doi.org/10.1136/amiajnl-2013-002358
 
 ## Current development status
-This package is an un-official weka package that can be installed using Weka's Package Manager
+This package is an official weka package that can be installed using Weka's Package Manager
