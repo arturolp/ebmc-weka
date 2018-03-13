@@ -1,5 +1,5 @@
 # EBMC package for WEKA
-A WEKA extension for the Efficient Bayesian Multivariate Classifier (EBMC) algorithm
+A java WEKA extension for the Efficient Bayesian Multivariate Classifier (EBMC) algorithm
 
 
 ## Description
